@@ -10,9 +10,7 @@
 
 - [Electronic Health Record slide deck by Team STRIDE](https://youtu.be/p21jb9wGkTk?si=N8INjYj_COc-KWxh)
 
-<h2>📄 Certifications</h2>
 
-- [Electronic Health record slide deck by Team STRIDE](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -24,7 +22,7 @@
 [instagram]: https://www.instagram.com/prowebsuite/
 [linkedin]: https://www.linkedin.com/in/oluwatayo-oladejo/
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
