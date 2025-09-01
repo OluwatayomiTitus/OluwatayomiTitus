@@ -18,8 +18,8 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://x.com/Prowebsuite
-[instagram]: https://www.instagram.com/prowebsuite/
+[twitter]: https://x.com/oluwatayomi_o
+[instagram]: https://www.instagram.com/oluwatayomi.o/
 [linkedin]: https://www.linkedin.com/in/oluwatayo-oladejo/
 <!--
 
