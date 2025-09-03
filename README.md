@@ -1,4 +1,4 @@
-<h1>Hi, I'm Oluwatayo! <br/><a href="https://github.com/joshmadakor1">Frontend Developer</a>
+<h1>Hi, I'm Oluwatayo! <br/><a href="https://https://github.com/OluwatayomiTitus">Frontend Developer</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Wordpress Websites</b>
